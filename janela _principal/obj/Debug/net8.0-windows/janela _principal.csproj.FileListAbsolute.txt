@@ -1,0 +1,17 @@
+E:\Faculdade Chel\C#\janela _principal\bin\Debug\net8.0-windows\janela _principal.exe
+E:\Faculdade Chel\C#\janela _principal\bin\Debug\net8.0-windows\janela _principal.deps.json
+E:\Faculdade Chel\C#\janela _principal\bin\Debug\net8.0-windows\janela _principal.runtimeconfig.json
+E:\Faculdade Chel\C#\janela _principal\bin\Debug\net8.0-windows\janela _principal.dll
+E:\Faculdade Chel\C#\janela _principal\bin\Debug\net8.0-windows\janela _principal.pdb
+E:\Faculdade Chel\C#\janela _principal\obj\Debug\net8.0-windows\janela__principal.Form1.resources
+E:\Faculdade Chel\C#\janela _principal\obj\Debug\net8.0-windows\janela _principal.csproj.GenerateResource.cache
+E:\Faculdade Chel\C#\janela _principal\obj\Debug\net8.0-windows\janela _principal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade Chel\C#\janela _principal\obj\Debug\net8.0-windows\janela _principal.AssemblyInfoInputs.cache
+E:\Faculdade Chel\C#\janela _principal\obj\Debug\net8.0-windows\janela _principal.AssemblyInfo.cs
+E:\Faculdade Chel\C#\janela _principal\obj\Debug\net8.0-windows\janela _principal.csproj.CoreCompileInputs.cache
+E:\Faculdade Chel\C#\janela _principal\obj\Debug\net8.0-windows\janela _principal.dll
+E:\Faculdade Chel\C#\janela _principal\obj\Debug\net8.0-windows\refint\janela _principal.dll
+E:\Faculdade Chel\C#\janela _principal\obj\Debug\net8.0-windows\janela _principal.pdb
+E:\Faculdade Chel\C#\janela _principal\obj\Debug\net8.0-windows\janela _principal.genruntimeconfig.cache
+E:\Faculdade Chel\C#\janela _principal\obj\Debug\net8.0-windows\ref\janela _principal.dll
+E:\Faculdade Chel\C#\janela _principal\obj\Debug\net8.0-windows\janela__principal.equacao_quadrica.resources
